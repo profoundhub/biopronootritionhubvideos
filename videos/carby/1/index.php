@@ -24,13 +24,10 @@
   <link href="http://bioprofitness.com/videos/assets/css/bootstrap-theme.css" rel="stylesheet">
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
-<!-- simple styles -->
+  <!-- Simple Styles -->
   <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
-  <style type="text/css">
 
-  </style>
-
-  <!-- Source hidden -->
+  <!-- Source Hidden -->
   
 
 
@@ -140,9 +137,22 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments)};
   gtag('js', new Date());
-
   gtag('config', 'UA-58506882-1');
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -194,6 +204,66 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView
 &noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Facebook Pixel Code -->
 
 
@@ -210,7 +280,7 @@ fbq('track', 'PageView');
 
 	fbq("trackCustom", "Joined Project Awareness Campaign", {
 	});
-	
+
   fbq('track', 'CompleteRegistration', {
 			value: 1.00,
 			currency: 'USD'
@@ -299,14 +369,15 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 
 
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+  <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
 
   <div id="wrapper">
     <div class="container">
@@ -325,11 +396,8 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                 frameborder="0" allowfullscreen></iframe>      
                 <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
               </div>						
-            </div>
-        
-<br />
-
-
+            </div>        
+              <br />
             <p>              
               <h3>
               <a href="#" class="green button vrlps-trigger" style="color:#ff0700; padding: 30px 60px;">Don't Miss the Next Video!</a>
@@ -341,9 +409,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
           <!-- end jumbotron visibleBoxes -->
           <?php /* 
             <a class="green button vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a>
-            */ ?>
-
-
+          */ ?>
             <p>              
               <h3>
               <a href="#" class="green button vrlps-trigger" style="color:#ff0700; padding: 30px 60px;">Don't Miss the Next Video!</a>
