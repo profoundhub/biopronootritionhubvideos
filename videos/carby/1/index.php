@@ -425,14 +425,11 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
               <div class="well visibleBoxes videoContest">
                 <div class="page-header">
                   <h4>The Project "Awareness" Video Contest</h4>
-                </div>
-                
+                </div>                
                 <div data-vl-widget="popupTrigger"></div>
                 <h5>Help us spread the word!</h5>
               </div>
-
-              <br />
-
+                <br />
               <h3>Contest Ends on Nov. 2nd, 2017</h3>
               <div id="countdown" style="color:#000;"></div>
 
@@ -449,7 +446,6 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
           </div>
         </div>
       </div>
-
       <div class="row">
         <br />
         <hr>
@@ -474,6 +470,25 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
       </div>
     </div>
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
