@@ -348,81 +348,77 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-
-            <?php /* 
-							<div class="non-visibleBoxes">				
-						*/ ?>
-            
             <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
-            <h2>Project "Awareness"</h2>
-            <br />
-
-            <div class="videoWrapperOuter">
-              <div class="videoWrapperInner">
-              <?php /*
-                <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                frameborder="0" allowfullscreen></iframe>            */ ?>
-                
-                <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false">
-                <blockquoteblockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore">
-                  <a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a>
-                    <p>
-                      Are &quot;NOOTROPICS&quot; Cheating?                
-                      Like Our Facebook Page
-                      https://www.facebook.com/nootritionhub/
-                    </p>
-                      Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017
-                </blockquote>
-              </div>
-                <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
-              </div>			<!-- videoWrapperInner -->			
-            </div>       <!-- videoWrapperOuter --> 
-
-          <br />
-
-          </div><!-- end jumbotron visibleBoxes -->
-
-
-          <div class="alert alert-danger" role="alert">
-            <p>
-              <h3>
-                <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a>
-              </h3>
-            </p>
-          </div><!-- alert alert-danger -->
-
-            <hr>
-
-          <div class="col-md-8 col-md-offset-2">
-            <div class="jumbotron visibleBoxes">
-              <br />
-              <div class="well visibleBoxes videoContest">
-
-                <div class="page-header">
-                  <h4>The Project "Awareness" Video Contest</h4>
-                </div><!-- page-header -->
-
-                <h5>Help us spread the word!</h5>
-                <div data-vl-widget="popupTrigger"></div><!-- -->
-
-              </div><!-- well visibleBoxes videoContest -->
+              <h2>Project "Awareness"</h2>
                 <br />
-                
-                  <h3>Contest Ends on Nov. 2nd, 2017</h3>
-                  <div id="countdown" style="color:#000;"></div><!-- -->
+                  <div class="videoWrapperOuter">
+                    <div class="videoWrapperInner">
+                      <?php /*
+                        <iframe src="//www.youtube.com/embed/<------>?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>            
+                      */ ?>         
+                      
+                      <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
 
-            </div><!-- jumbotron visibleBoxes -->
-          </div><!-- col-md-8 col-md-offset-2 -->
+                      Like Our Facebook Page
+                      https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote>
+                      </div>
+
+                      <?php /*
+                        <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false">
+                          <blockquoteblockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a>
+                              <p>
+                                Are &quot;NOOTROPICS&quot; Cheating?                
+                                Like Our Facebook Page
+                                https://www.facebook.com/nootritionhub/
+                              </p>
+                                Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017
+                          </blockquote>
+                        </div>
+                      */ ?>
+
+                      <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
+                    </div><!-- videoWrapperInner -->			
+                  </div><!-- videoWrapperOuter --> 
+                <br />
+              </div><!-- end jumbotron visibleBoxes -->
+              <div class="alert alert-danger" role="alert">
+                <p>
+                  <h3>
+                    <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a>
+                  </h3>
+                </p>
+              </div><!-- alert alert-danger -->
+                <hr>
+                  <div class="col-md-8 col-md-offset-2">
+                    <div class="jumbotron visibleBoxes">
+                      <br />
+                        <div class="well visibleBoxes videoContest">
+                          <div class="page-header">
+                            <h4>The Project "Awareness" Video Contest</h4>
+                          </div><!-- page-header -->
+
+                          <h5>Help us Spread the Word!</h5>
+                            <div data-vl-widget="popupTrigger"></div><!-- -->
+                        </div><!-- well visibleBoxes videoContest -->
+                          <br />                  
+                            <h3>Contest Ends on Nov. 2nd, 2017</h3>
+                              <div id="countdown" style="color:#000;"></div><!-- -->
+                    </div><!-- jumbotron visibleBoxes -->
+                  </div><!-- col-md-8 col-md-offset-2 -->
       </div><!-- row -->
     </div><!-- container -->
     <?php include('../../inc/comments.php'); ?>
-    <div class="row">
-      <div class="col-lg-6 col-lg-offset-3">
-        <?php include('../../inc/social.php'); ?>
-        <?php include('../../inc/copyright.php'); ?>
-        <?php include('../../inc/credits.php'); ?>
-      </div><!-- col-lg-6 col-lg-offset-3 -->
-    </div><!-- row -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-lg-offset-3">
+          <?php include('../../inc/social.php'); ?>
+          <?php include('../../inc/copyright.php'); ?>
+          <?php include('../../inc/credits.php'); ?>
+        </div><!-- col-lg-6 col-lg-offset-3 -->
+      </div><!-- row -->
+    </div><!-- container -->
   </div><!-- wrapper -->
 </div>
 
