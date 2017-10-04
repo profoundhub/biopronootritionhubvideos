@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>The Awareness Project</title>
+  <title>Are "NOOTROPICS" Cheating? | Project "Awareness"</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -24,7 +24,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/bootstrap-theme.css" rel="stylesheet">
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
-  <!-- siimple style -->
+<!-- simple styles -->
   <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
   <style type="text/css">
 
@@ -178,6 +178,7 @@
       enable_page_level_ads: true
     });
   </script>
+
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -197,9 +198,9 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView
 &noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
+
+
 <!-- Facebook Pixel Code -->
-
-
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -211,7 +212,7 @@ em: ''
 });
 fbq('track', 'PageView');
 
-	fbq("trackCustom", "Video #1 - Joined Project Awareness Campaign", {
+	fbq("trackCustom", "Joined Project Awareness Campaign", {
 	});
 	
   fbq('track', 'CompleteRegistration', {
@@ -319,34 +320,40 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
             <?php /* 
 							<div class="non-visibleBoxes">				
 						*/ ?>
-            <h1>Project "Awareness"</h1>
-            <h2 class="subtitle">Are Supplements a Scam?</h2><br />
+            
+            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
+            <h2>Project "Awareness"</h2>
+            <br />
 
             <div class="videoWrapperOuter">
               <div class="videoWrapperInner">
-	<?php /*		
-			<div class="fb-video" data-href="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/"></a><p>Are supplements a SCAM!???
-    Herbal Supplements Are Often Not What They Seem !!
-    https://goo.gl/MsJhFx</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Monday, October 2, 2017</blockquote></div>
-  */ ?> 
+              <?php /*
+                <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
+                frameborder="0" allowfullscreen></iframe>            */ ?>
+                
+                <!-- Your embedded video player code -->
+                <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
+                  <div class="fb-xfbml-parse-ignore">
+                    <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
+                      <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
+                      <p>How to share with just friends.</p>
+                      Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+                    </blockquote>
+                  </div>
+                </div>
 
-<div class="fb-video" data-href="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154682915130771/"></a><p>Are supplements a SCAM!???
-Herbal Supplements Are Often Not What They Seem !!
-https://goo.gl/MsJhFx</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Monday, October 2, 2017</blockquote></div>
-
-              </div>
-            </div>
-			
+  
+                <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
+              </div>						
+            </div>        
+          <br />
           </div>
           <!-- end jumbotron visibleBoxes -->
-
           <div class="alert alert-danger" role="alert">
             <p>
               <h3><a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a></h3></p>
           </div>
-
-          <hr>
-
+            <hr>
           <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron visibleBoxes">
               <br />
@@ -357,51 +364,43 @@ https://goo.gl/MsJhFx</p>Posted by <a href="https://www.facebook.com/jeans.wong.
                 <h5>Help us spread the word!</h5>
                 <div data-vl-widget="popupTrigger"></div>
               </div>
-
-              <br />
-
+                <br />
               <h3>Contest Ends on Nov. 2nd, 2017</h3>
               <div id="countdown" style="color:#000;"></div>
-
             </div>
-
           </div>
-          </div>
-          <div class="social">
-            <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-          </div>
+      </div>
+    </div>
+    <div class="row">      
+      <hr>
+      <div class="col-md-8 col-md-offset-2">
+        <div class="jumbotron visibleBoxes">
+          <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
         </div>
       </div>
-
-      <div class="row">
-        <br />
-        <hr>
-        <div class="col-md-8 col-md-offset-2">
-          <div class="jumbotron visibleBoxes">
-            <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
-          </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6 col-lg-offset-3">
+        <div class="social">
+          <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6 col-lg-offset-3">
-          <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
-          <div class="credits">
-            <!-- 
-						All the links in the footer should remain intact. 
-						You can delete the links only if you purchased the pro version.
-						Licensing information: https://bootstrapmade.com/license/
-						Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
-						-->
-          </div>
+        <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
+        <div class="credits">
+          <!-- 
+          All the links in the footer should remain intact. 
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
+          -->
         </div>
       </div>
     </div>
   </div>
-
+</div>
 
 
 
@@ -459,7 +458,7 @@ https://goo.gl/MsJhFx</p>Posted by <a href="https://www.facebook.com/jeans.wong.
 	<script>!function(a,b,c,d,t){var e,f=a.getElementsByTagName("head")[0];if(!a.getElementById(c)){if(e=a.createElement(b),e.id=c,e.setAttribute("data-vrlps-ucid",d),e.setAttribute("data-vrlps-version","2"), e.setAttribute("data-vrlps-template", t),e.src="https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js",window.ub){jQuery=null,$=null;var g=a.createElement(b);g.src="https://code.jquery.com/jquery-2.2.4.min.js",f.appendChild(g)}f.appendChild(e);var h=a.createElement("link");h.rel="stylesheet",h.type="text/css",h.href="https://app.viral-loops.com/static/vl-loader.css",f.appendChild(h);var i=a.createElement("div");i.id="vl-overlay",i.style.display="none";var j=a.createElement("div");j.id="vl-loader",i.appendChild(j),a.addEventListener("DOMContentLoaded",function(b){a.body.appendChild(i);for(var c=a.getElementsByClassName("vrlps-trigger"),d=0;d<c.length;d++)c[d].removeAttribute("href"),c[d].onclick=function(){a.getElementById("vl-overlay").style.display="block"};var e=a.querySelectorAll("[data-vl-widget='popupTrigger']");[].forEach.call(e,function(b){var c=a.createElement("div");c.className="vl-embedded-cta-loader",b.appendChild(c)})})}}(document,"script","vrlps-js","45gbiRp2z3W09kyYcitIu9gVMXE","ranking");</script>
 	<script>
   <script>
-    console.log("Someone like you has joined the campaign!");
+    console.log("Someone cool just joined the campaign!");
   </script>
 </body>
 
