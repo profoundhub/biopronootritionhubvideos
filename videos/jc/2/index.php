@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
 <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -331,16 +331,10 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                 <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
                 frameborder="0" allowfullscreen></iframe>            */ ?>
                 
-                <!-- Your embedded video player code -->
-                <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
-                  <div class="fb-xfbml-parse-ignore">
-                    <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-                      <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-                      <p>How to share with just friends.</p>
-                      Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-                    </blockquote>
-                  </div>
-                </div>
+                <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
+                
+                Like Our Facebook Page
+                https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote></div>
 
   
                 <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
