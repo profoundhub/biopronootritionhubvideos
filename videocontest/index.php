@@ -344,56 +344,64 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 */ ?>
 
 <div class="container">
-            <div class="col-sm-12">
+            <div class="col-md-12">
 
                 <div class="bs-calltoaction bs-calltoaction-default">
                     <div class="row">
-                        <div class="col-md-9 cta-contents">
-                            <h1 class="cta-title">Its a Call To Action</h1>
+                        <div class="cta-contents">
+                            <h1 class="cta-title">HOW TO WIN YOUR NEXT CARIBBEAN VACATION?</h1>
+                            <h2>How to WIN your Caribbean Trip:</h2>
                             <div class="cta-desc">
-                                <p>Describe the action here.</p>
-                                <p>Describe the action here.</p>
-                                <p>Describe the action here.</p>
+                                <ol class="text2left">
+                                    <li><i>Click</i> on the <span style="color:red;"><b>red</b></span> <b>Button</b> below.</li>
+                                    <li><i>Enter & Submit</i> your <b>Name, Email</b> and <b>Phone Number</b>.</li>
+                                    <li title="Your link should look something like this: http://bioprofitness.com/video-contest?referral=Bkj5qDl2-&refSource=copy"><i>Share, Tweet & Post</i> your link on <b>Social Media</b> & <b>eMail</b>.</li>
+                                                                        
+                                </ol>
                             </div>
                         </div>
-                        <div class="col-md-3 cta-button">
-                            <a href="#" class="btn btn-lg btn-block btn-default">Go for It!</a>
+                        <div class="cta-button">
+                            <a href="#" class="vrlps-trigger btn btn-lg btn-block btn-danger" style="color:#fff;">Enter Contest!</a>                            
                         </div>
+
+                        <pre>Come back here to check your position on the leaderboard.</pre>
+                        <code>** The more you share the more chances you have of winning!</code>
+                        
+
                      </div>
                 </div>
 
                 <div class="bs-calltoaction bs-calltoaction-primary">
                     <div class="row">
-                        <div class="col-md-9 cta-contents">
+                        <div class="col-md-12 cta-contents">
                             <h1 class="cta-title">Prizes</h1>
                             <div class="cta-desc">
                                 <p>
-                                    <ul class="float: left;">
-                                    <li>First Prize: Your destination of choice for 2</li>
-                                    <li>Second Price: iPhone</li>
+                                    <ul class="list-group prizesList">
+                                        <li class="list-group-item">1st <i class="fa fa-trophy" aria-hidden="true"></i>: Your Caribbean Vacation for two(2) people (Value: $4,000)</li>
+                                        <li class="list-group-item">2nd <i class="fa fa-trophy" aria-hidden="true"></i>: iPhone (Value: $1,000)</li>
+                                        <li class="list-group-item">3rd <i class="fa fa-trophy" aria-hidden="true"></i>: 60" TV (Value: $900)</li>
 
-                                    <li>Third Price: 60” TV</li>
+                                        <li class="list-group-item">4th <i class="fa fa-trophy" aria-hidden="true"></i>: iPad Pro (Value: $870)</li>
+                                        <li class="list-group-item">5th <i class="fa fa-trophy" aria-hidden="true"></i>: iPad: 128GB (Value: $580)</li>
+                                        <li class="list-group-item">6th <i class="fa fa-trophy" aria-hidden="true"></i>: iPad Mini 4: 128GB (Value: $550)</li>
 
-                                    <li>Fourth: iPad</li>
-                                    <li>Fifth:iPad</li>
-                                    <li>Sixth:iPad</li>
+                                        <li class="list-group-item">7th <i class="fa fa-trophy" aria-hidden="true"></i>: $200 Gift Card (Value: $200)</li>
+                                        <li class="list-group-item">8th <i class="fa fa-trophy" aria-hidden="true"></i>: $175 Gift Card (Value: $175)</li>
+                                        <li class="list-group-item">9th <i class="fa fa-trophy" aria-hidden="true"></i>: $150 Gift Card (Value: $150)</li>
 
-                                    <li>Seventh: $200 Gift Card </li>
-                                    <li>Eighth: $200 Gift Card</li>
-                                    <li>Ninth: $200 Gift Card</li>
-
-                                    <li>Tenth - Twenty: FREE Bottle of Mastermind</li>
+                                        <li class="list-group-item">10th - 20th <i class="fa fa-trophy" aria-hidden="true"></i>: FREE Bottle of Mastermind  (Value: $125)</li>
                                     </ul>
                                 </p>
-                                
+                                * Prices in CDN$
                             </div>
                         </div>
-                        <div class="col-md-3 cta-button">
-                            <a href="#" class="btn btn-lg btn-block btn-primary">Go for It!</a>
+                        <div class="col-md-12 cta-button">
+                        <a href="#" class="vrlps-trigger btn btn-lg btn-block btn-danger" style="color:#fff;">Enter Contest!</a>
                         </div>
                      </div>
                 </div>
-
+<?php /*
                 <div class="bs-calltoaction bs-calltoaction-info">
                     <div class="row">
                         <div class="col-md-9 cta-contents">
@@ -457,17 +465,22 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                         </div>
                      </div>
                 </div>
-
+*/ ?>
             </div>
         </div>
         
           </div>
           <!-- end jumbotron visibleBoxes -->
-
+<?php /*
           <div class="alert alert-danger" role="alert">
             <p>
-              <h3><a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a></h3></p>
+                <h3>
+                    <a href="#" class="vrlps-trigger" style="color:#ff0700;">Enter Contest!</a>
+                </h3>
+            </p>
           </div>
+
+          */ ?>
           	<hr>
           <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron visibleBoxes">
@@ -482,7 +495,13 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                 <br />
               <h3>Contest Ends on Nov. 2nd, 2017</h3>
               <div id="countdown" style="color:#000;"></div>
+
+              <blockquote>*** Contest Rules: This is a Contest, no purchase necessary, this is a limited time offer; contest participants may not win more than one(1) prize per person! Void where prohibited. Purchase does not enhance chance of winning. You must be 18 years or older to participate in this contest. Winner(s) will be chosen and notified by Jan 30th, 2018. <p>For Full Rules, visit: </p></blockquote>
+
             </div>
+
+            
+
           </div>
 
           </div>
