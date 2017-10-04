@@ -125,9 +125,7 @@ form.signup input.form-control:focus {
 	border-color: #fd680e;
 }
 
-
 /* wrapper */
-
 #wrapper {
 	text-align: center;
     /* padding: 5% 0 0 0; */
@@ -393,4 +391,9 @@ p.copyright {
 	.red.button { -webkit-animation-name: redPulse; -webkit-animation-duration: 1s; }
 	.magenta.button { -webkit-animation-name: magentaPulse; -webkit-animation-duration: 2s; }
 	.orange.button { -webkit-animation-name: orangePulse; -webkit-animation-duration: 3s; }
-	.orangellow.button { -webkit-animation-name: orangellowPulse; -webkit-animation-duration: 5s; }
+  .orangellow.button { -webkit-animation-name: orangellowPulse; -webkit-animation-duration: 5s; }
+  
+  .fb-videos {
+    background-color: cornsilk;
+  }
+  
