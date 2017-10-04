@@ -319,7 +319,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 							<div class="non-visibleBoxes">				
 						*/ ?>
             
-            <h1 class="subtitle">Enter to Win a Caribbean Vacation</h1>
+            <h1 class="subtitle">Enter to Win a Round Trip for Two to the Caribbean!</h1>
             
             <div class="videoWrapperOuter">
               <div class="videoWrapperInner">
@@ -327,6 +327,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
               </div>						
             </div>
             <h1>The Project "Awareness" Video Contest</h1>
+            <? /*
 <br />
   <br />
     <br />
@@ -334,6 +335,11 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
     <br />
   <br />
 <br />
+*/ ?>
+
+Details Coming Soon
+
+
           </div>
           <!-- end jumbotron visibleBoxes -->
 
