@@ -342,15 +342,7 @@
 
 
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
+  <?php include('../../inc/fb-root.php'); ?>
   <div id="wrapper">
     <div class="container">
       <div class="row">
@@ -423,33 +415,12 @@
           </div><!-- col-md-8 col-md-offset-2 -->
       </div><!-- row -->
     </div><!-- container -->
-
-    <div class="row">
-      <hr>
-      <div class="col-md-8 col-md-offset-2">
-        <div class="jumbotron visibleBoxes">
-          <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
-        </div>
-      </div>
-    </div>
+    <?php include('../../inc/comments.php'); ?>
     <div class="row">
       <div class="col-lg-6 col-lg-offset-3">
-        <div class="social">
-          <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        </div><!-- social -->
-        <p class="copyright">&copy; BioProFitness - All Rights Reserved</p><!-- copyright -->
-        <div class="credits">
-          <!-- 
-          All the links in the footer should remain intact. 
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
-          -->
-        </div><!-- Credits -->
+        <?php include('../../inc/social.php'); ?>
+        <?php include('../../inc/copyright.php'); ?>
+        <?php include('../../inc/credits.php'); ?>
       </div><!-- col-lg-6 col-lg-offset-3 -->
     </div><!-- row -->
   </div><!-- wrapper -->

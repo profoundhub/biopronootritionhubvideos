@@ -1,0 +1,1 @@
+<p class="copyright">&copy; BioProFitness - All Rights Reserved</p><!-- copyright -->
