@@ -198,35 +198,11 @@
 
 
 
+<?php include('../../inc/googleads.php'); ?>
+<?php include('../../inc/fbpixel1.php'); ?>
 
 
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-2490173776997871",
-      enable_page_level_ads: true
-    });
-  </script>
 
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window,document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
- fbq('init', '295481444187735'); 
-fbq('track', 'PageView');
-</script>
-<noscript>
- <img height="1" width="1" 
-src="https://www.facebook.com/tr?id=295481444187735&ev=PageView
-&noscript=1"/>
-</noscript>
-<!-- End Facebook Pixel Code -->
 
 
 
@@ -287,34 +263,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView
 
 
 
-
-
-
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '295481444187735', {
-em: ''
-});
-fbq('track', 'PageView');
-
-	fbq("trackCustom", "Joined Project Awareness Campaign", {
-	});
-	
-  fbq('track', 'CompleteRegistration', {
-			value: 5.00,
-			currency: 'USD'
-	});			
-</script>
-  <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
-/></noscript>
-  <!-- DO NOT MODIFY -->
-  <!-- End Facebook Pixel Code -->
+<?php include('../../inc/fbpixel.php'); ?>
 </head>
 
 
@@ -407,6 +356,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
+
             <?php /* 
 							<div class="non-visibleBoxes">				
 						*/ ?>
@@ -421,41 +371,60 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                 <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
                 frameborder="0" allowfullscreen></iframe>            */ ?>
                 
-                <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
-                
-                Like Our Facebook Page
-                https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote></div>
-
-  
+                <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false">
+                <blockquoteblockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a>
+                    <p>
+                      Are &quot;NOOTROPICS&quot; Cheating?                
+                      Like Our Facebook Page
+                      https://www.facebook.com/nootritionhub/
+                    </p>
+                      Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017
+                </blockquote>
+              </div>
                 <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
-              </div>						
-            </div>        
+              </div>			<!-- videoWrapperInner -->			
+            </div>       <!-- videoWrapperOuter --> 
+
           <br />
-          </div>
-          <!-- end jumbotron visibleBoxes -->
+
+          </div><!-- end jumbotron visibleBoxes -->
+
+
           <div class="alert alert-danger" role="alert">
             <p>
-              <h3><a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a></h3></p>
-          </div>
+              <h3>
+                <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a>
+              </h3>
+            </p>
+          </div><!-- alert alert-danger -->
+
             <hr>
+
           <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron visibleBoxes">
               <br />
               <div class="well visibleBoxes videoContest">
+
                 <div class="page-header">
                   <h4>The Project "Awareness" Video Contest</h4>
-                </div>
+                </div><!-- page-header -->
+
                 <h5>Help us spread the word!</h5>
-                <div data-vl-widget="popupTrigger"></div>
-              </div>
+                <div data-vl-widget="popupTrigger"></div><!-- -->
+
+              </div><!-- well visibleBoxes videoContest -->
                 <br />
-              <h3>Contest Ends on Nov. 2nd, 2017</h3>
-              <div id="countdown" style="color:#000;"></div>
-            </div>
-          </div>
-      </div>
-    </div>
-    <div class="row">      
+                
+                  <h3>Contest Ends on Nov. 2nd, 2017</h3>
+                  <div id="countdown" style="color:#000;"></div><!-- -->
+
+            </div><!-- jumbotron visibleBoxes -->
+          </div><!-- col-md-8 col-md-offset-2 -->
+      </div><!-- row -->
+    </div><!-- container -->
+
+    <div class="row">
       <hr>
       <div class="col-md-8 col-md-offset-2">
         <div class="jumbotron visibleBoxes">
@@ -471,8 +440,8 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
           <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
           <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        </div>
-        <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
+        </div><!-- social -->
+        <p class="copyright">&copy; BioProFitness - All Rights Reserved</p><!-- copyright -->
         <div class="credits">
           <!-- 
           All the links in the footer should remain intact. 
@@ -480,10 +449,10 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
           -->
-        </div>
-      </div>
-    </div>
-  </div>
+        </div><!-- Credits -->
+      </div><!-- col-lg-6 col-lg-offset-3 -->
+    </div><!-- row -->
+  </div><!-- wrapper -->
 </div>
 
 
