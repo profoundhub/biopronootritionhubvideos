@@ -368,21 +368,21 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
                             <h1 class="cta-title">Prizes</h1>
                             <div class="cta-desc">
                                 <p>
-                                    <ul class="float: left;">
-                                    <li>First Prize: Your destination of choice for 2</li>
-                                    <li>Second Price: iPhone</li>
+                                    <ul class="list-group prizesList">
+                                        <li class="list-group-item">1st <i class="fa fa-trophy" aria-hidden="true"></i>: Your destination of choice for 2</li>
+                                        <li class="list-group-item">2nd Price: iPhone</li>
 
-                                    <li>Third Price: 60” TV</li>
+                                        <li class="list-group-item">Third Price: 60” TV</li>
 
-                                    <li>Fourth: iPad</li>
-                                    <li>Fifth:iPad</li>
-                                    <li>Sixth:iPad</li>
+                                        <li class="list-group-item">Fourth: iPad</li>
+                                        <li class="list-group-item">Fifth:iPad</li>
+                                        <li class="list-group-item">Sixth:iPad</li>
 
-                                    <li>Seventh: $200 Gift Card </li>
-                                    <li>Eighth: $200 Gift Card</li>
-                                    <li>Ninth: $200 Gift Card</li>
+                                        <li class="list-group-item">Seventh: $200 Gift Card </li>
+                                        <li class="list-group-item">Eighth: $200 Gift Card</li>
+                                        <li class="list-group-item">Ninth: $200 Gift Card</li>
 
-                                    <li>Tenth - Twenty: FREE Bottle of Mastermind</li>
+                                        <li class="list-group-item">Tenth - Twenty: FREE Bottle of Mastermind</li>
                                     </ul>
                                 </p>
                                 

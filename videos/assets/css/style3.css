@@ -388,5 +388,7 @@ p.copyright {
 }
 
 .prizesList {
-  float: left;
+  /* float: left; */
+  color: black;
+  font-weight: 800;
 }
