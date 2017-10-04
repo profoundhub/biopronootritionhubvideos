@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Are "NOOTROPICS" Cheating? | Project "Awareness"</title>
+  <title>The Awareness Project</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -24,8 +24,8 @@
   <link href="http://bioprofitness.com/videos/assets/css/bootstrap-theme.css" rel="stylesheet">
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
-<!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
+  <!-- simple styles -->
+  <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -170,36 +170,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({
@@ -207,7 +177,6 @@
       enable_page_level_ads: true
     });
   </script>
-
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -227,70 +196,9 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView
 &noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Facebook Pixel Code -->
+
+
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -411,33 +319,35 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 							<div class="non-visibleBoxes">				
 						*/ ?>
             
-            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
-            <h2>Project "Awareness"</h2>
-            <br />
-
+            <h1 class="subtitle">Enter to Win a Round Trip for Two to the Caribbean!</h1>
+            
             <div class="videoWrapperOuter">
               <div class="videoWrapperInner">
-              <?php /*
-                <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                frameborder="0" allowfullscreen></iframe>            */ ?>
-                
-                <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
-                
-                Like Our Facebook Page
-                https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote></div>
-
-  
-                <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
+                <img src="http://bioprofitness.com/videos/assets/img/win-a-vacation.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" />
               </div>						
-            </div>        
-          <br />
+            </div>
+            <h1>The Project "Awareness" Video Contest</h1>
+            <? /*
+<br />
+  <br />
+    <br />
+      <br />
+    <br />
+  <br />
+<br />
+*/ ?>
+
+Details Coming Soon
+
+
           </div>
           <!-- end jumbotron visibleBoxes -->
+
           <div class="alert alert-danger" role="alert">
             <p>
               <h3><a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a></h3></p>
           </div>
-            <hr>
+          	<hr>
           <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron visibleBoxes">
               <br />
@@ -453,25 +363,45 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
               <div id="countdown" style="color:#000;"></div>
             </div>
           </div>
+
+          </div>
+		<?php /*
+		
+			<div class="social">
+				<a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+				<a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+				<a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+				<a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+				<a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			</div>
+
+		*/ ?>
+			
       </div>
     </div>
-    <div class="row">      
-      <hr>
+
+    <div class="row">
+      	<br />
+      	<hr>
       <div class="col-md-8 col-md-offset-2">
         <div class="jumbotron visibleBoxes">
           <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
         </div>
+
+		<div class="social">
+			<a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+			<a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+			<a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+		</div>
+
+
       </div>
     </div>
+
     <div class="row">
       <div class="col-lg-6 col-lg-offset-3">
-        <div class="social">
-          <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-          <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        </div>
         <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
         <div class="credits">
           <!-- 
@@ -542,7 +472,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 	<script>!function(a,b,c,d,t){var e,f=a.getElementsByTagName("head")[0];if(!a.getElementById(c)){if(e=a.createElement(b),e.id=c,e.setAttribute("data-vrlps-ucid",d),e.setAttribute("data-vrlps-version","2"), e.setAttribute("data-vrlps-template", t),e.src="https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js",window.ub){jQuery=null,$=null;var g=a.createElement(b);g.src="https://code.jquery.com/jquery-2.2.4.min.js",f.appendChild(g)}f.appendChild(e);var h=a.createElement("link");h.rel="stylesheet",h.type="text/css",h.href="https://app.viral-loops.com/static/vl-loader.css",f.appendChild(h);var i=a.createElement("div");i.id="vl-overlay",i.style.display="none";var j=a.createElement("div");j.id="vl-loader",i.appendChild(j),a.addEventListener("DOMContentLoaded",function(b){a.body.appendChild(i);for(var c=a.getElementsByClassName("vrlps-trigger"),d=0;d<c.length;d++)c[d].removeAttribute("href"),c[d].onclick=function(){a.getElementById("vl-overlay").style.display="block"};var e=a.querySelectorAll("[data-vl-widget='popupTrigger']");[].forEach.call(e,function(b){var c=a.createElement("div");c.className="vl-embedded-cta-loader",b.appendChild(c)})})}}(document,"script","vrlps-js","45gbiRp2z3W09kyYcitIu9gVMXE","ranking");</script>
 	<script>
   <script>
-    console.log("Someone cool just joined the campaign!");
+    console.log("Someone else joined the campaign!");
   </script>
 </body>
 
