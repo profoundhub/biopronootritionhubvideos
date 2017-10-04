@@ -1,3 +1,9 @@
+<?php 
+/*
+header("Location: http://bioprofitness.com/video-contest/");
+die(); 
+*/
+?>
 <!DOCTYPE html>
 <!--[if IE 7]>
 	<html class="ie ie7" lang="en-US">
@@ -25,7 +31,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
   <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style3.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -337,9 +343,124 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 <br />
 */ ?>
 
-Details Coming Soon
+<div class="container">
+            <div class="col-sm-12">
 
+                <div class="bs-calltoaction bs-calltoaction-default">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Its a Call To Action</h1>
+                            <div class="cta-desc">
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-default">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
 
+                <div class="bs-calltoaction bs-calltoaction-primary">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Prizes</h1>
+                            <div class="cta-desc">
+                                <p>
+                                    <ul class="float: left;">
+                                    <li>First Prize: Your destination of choice for 2</li>
+                                    <li>Second Price: iPhone</li>
+
+                                    <li>Third Price: 60” TV</li>
+
+                                    <li>Fourth: iPad</li>
+                                    <li>Fifth:iPad</li>
+                                    <li>Sixth:iPad</li>
+
+                                    <li>Seventh: $200 Gift Card </li>
+                                    <li>Eighth: $200 Gift Card</li>
+                                    <li>Ninth: $200 Gift Card</li>
+
+                                    <li>Tenth - Twenty: FREE Bottle of Mastermind</li>
+                                    </ul>
+                                </p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-primary">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
+
+                <div class="bs-calltoaction bs-calltoaction-info">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Its a Call To Action</h1>
+                            <div class="cta-desc">
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-info">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
+
+                <div class="bs-calltoaction bs-calltoaction-success">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Its a Call To Action</h1>
+                            <div class="cta-desc">
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-success">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
+
+                <div class="bs-calltoaction bs-calltoaction-warning">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Its a Call To Action</h1>
+                            <div class="cta-desc">
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-warning">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
+
+                <div class="bs-calltoaction bs-calltoaction-danger">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h1 class="cta-title">Its a Call To Action</h1>
+                            <div class="cta-desc">
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                                <p>Describe the action here.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 cta-button">
+                            <a href="#" class="btn btn-lg btn-block btn-danger">Go for It!</a>
+                        </div>
+                     </div>
+                </div>
+
+            </div>
+        </div>
+        
           </div>
           <!-- end jumbotron visibleBoxes -->
 

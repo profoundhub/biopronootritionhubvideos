@@ -211,7 +211,7 @@ em: ''
 });
 fbq('track', 'PageView');
 
-	fbq("trackCustom", "Joined Project Awareness Campaign", {
+	fbq("trackCustom", "Video #1 - Joined Project Awareness Campaign", {
 	});
 	
   fbq('track', 'CompleteRegistration', {
