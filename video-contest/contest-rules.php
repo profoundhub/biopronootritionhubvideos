@@ -464,7 +464,7 @@ The Awareness Project Contest Rules
 
 
 
-<?php include('../../inc/footer.php'); ?>
-<?php include('../../inc/countdown.php'); ?>
-</body>
+    <?php include('../../inc/footer.php'); ?>
+    <?php include('../../inc/countdown.php'); ?>
+  </body>
 </html>
