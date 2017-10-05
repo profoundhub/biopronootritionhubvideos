@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Are "NOOTROPICS" Cheating? | Project "Awareness"</title>
+  <title>Ingredients? | Project "Awareness"</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
 <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style6.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -350,9 +350,8 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
+            <h1 class="subtitle">Ingredients?</h1>
               <h2>Project "Awareness"</h2>
-                <br />
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
                       <?php /*
@@ -362,16 +361,6 @@
 
                         More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
                       */ ?>
-                      <?php /*
-                        <iframe src="//www.youtube.com/embed/qUNYLuUeJTs?rel=0&amp;controls=0&amp;showinfo=0" 
-                          frameborder="0" allowfullscreen></iframe>       
-
-                          https://youtu.be/2Z5r4lrd97A
-                          
-                      */ ?>
-                        <iframe src="//www.youtube.com/embed/2Z5r4lrd97A?rel=0&amp;controls=0&amp;showinfo=0" 
-                          frameborder="0" allowfullscreen></iframe>       
-
 
                       <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
                       <?php /* */ ?>
