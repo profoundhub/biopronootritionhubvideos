@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
   <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style10.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -337,11 +337,15 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 <br />
 */ ?>
 
-Details Coming Soon
+The Awareness Project Contest Rules
 
-
-          </div>
-          <!-- end jumbotron visibleBoxes -->
+<br />
+  <br />
+    <br />
+      <br />
+    <br />
+  <br />
+<br />
 
           <div class="alert alert-danger" role="alert">
             <p>
@@ -380,6 +384,8 @@ Details Coming Soon
       </div>
     </div>
 
+    </div>
+          <!-- end jumbotron visibleBoxes -->
     <div class="row">
       	<br />
       	<hr>

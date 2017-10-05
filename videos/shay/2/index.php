@@ -362,7 +362,15 @@
 
                         More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
                       */ ?>
+                      <?php /*
+                        <iframe src="//www.youtube.com/embed/qUNYLuUeJTs?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>       
 
+                          https://youtu.be/2Z5r4lrd97A
+
+                      */ ?>
+                        <iframe src="//www.youtube.com/embed/2Z5r4lrd97A?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>       
                       <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
                       <?php /* */ ?>
                     </div><!-- videoWrapperInner -->			
@@ -403,6 +411,7 @@
                     </div><!-- jumbotron visibleBoxes -->
                   </div><!-- col-md-8 col-md-offset-2 -->
               </div><!-- end jumbotron visibleBoxes -->
+              
       </div><!-- row -->
     </div><!-- container -->
     <?php include('../../inc/comments.php'); ?>

@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Gallery | Project "Awareness"</title>
+  <title>Ingredients? | Project "Awareness"</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
 <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style8.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style6.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
