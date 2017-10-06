@@ -348,11 +348,19 @@
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
                       
+                      
+                    <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.54/videos/10154687354585771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154687354585771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154687354585771/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
+
+                    Help me raise awareness. Share and like! Thanks for the support!
+                    Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Wednesday, October 4, 2017</blockquote></div>
+                      
+                    <?php /*  
                       <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
                       
                         Help me raise awareness. Share and like! Thanks for the support!
                         Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Wednesday, October 4, 2017</blockquote>
                       </div>
+                    */ ?>
 
                       <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
                     </div><!-- videoWrapperInner -->			
@@ -395,6 +403,10 @@
                 <br />
 
                 
+                <br />
+                  <br />
+                <br />
+                
               <div class="alert alert-danger" role="alert">
                 <p>
                   <h3>
@@ -403,6 +415,7 @@
                 </p>
               </div><!-- alert alert-danger -->
                 <hr>
+                
                   <div class="col-md-8 col-md-offset-2">
                     <div class="jumbotron visibleBoxes">
                       <br />

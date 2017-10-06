@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Project "Awareness" - IS IT WORTH IT?</title>
+  <title>Project "Awareness" - Are Supplements a Scam?</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -342,7 +342,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">IS IT WORTH IT?</h1>
+            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
                 <br />
                   

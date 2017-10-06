@@ -346,11 +346,14 @@
               <h2>Project "Awareness"</h2>
                 <br />
                   
-                  <?php /* include('../../inc/videosnippets.php'); */ ?>
+                  <?php /* include('../../inc/videosnippets.php'); 
+                  
+                  https://www.youtube.com/watch?v=M4x6spQdIXQ
+                  */ ?>
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
+                      <iframe src="//www.youtube.com/embed/M4x6spQdIXQ?rel=0&amp;controls=0&amp;showinfo=0" 
                       frameborder="0" allowfullscreen></iframe>                           
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 

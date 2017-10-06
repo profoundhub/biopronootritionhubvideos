@@ -271,6 +271,7 @@ p.copyright {
     box-shadow: 10px 14px 79px 0px rgba(0,0,0,0.75);
 }
 
+
 /* button */
 
 .niceCSS3button {
@@ -316,6 +317,9 @@ p.copyright {
     -webkit-animation-name: greenPulse;
     -webkit-animation-duration: 2s;
     -webkit-animation-iteration-count: infinite;
+    color: yellow;
+    padding: 30px 60px;
+    font-weight: 900;
   }
 
   .transparent.header {
@@ -392,8 +396,7 @@ p.copyright {
 	.magenta.button { -webkit-animation-name: magentaPulse; -webkit-animation-duration: 2s; }
 	.orange.button { -webkit-animation-name: orangePulse; -webkit-animation-duration: 3s; }
   .orangellow.button { -webkit-animation-name: orangellowPulse; -webkit-animation-duration: 5s; }
-  
-  .fb-videos {
-    background-color: cornsilk;
-  }
-  
+    
+.fb-videos {
+  background-color: cornsilk;
+}

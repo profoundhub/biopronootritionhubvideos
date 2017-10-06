@@ -350,8 +350,9 @@
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                      frameborder="0" allowfullscreen></iframe>                           
+                      
+                      <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
+
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
@@ -360,9 +361,18 @@
                     <br />
                   <br />
                 <br />
-                              
+                   
+                <br />
+                  <br />
+                    <br />
+                  <br />
+                <br />
+
               <?php include('../../inc/contestButton.php'); ?>  
-                <hr>              
+              
+              <br />
+                <br />
+                      
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->
