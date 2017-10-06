@@ -358,51 +358,51 @@
 
 
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter carby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter daniel">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jc">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jc">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jeans">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jc">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter daniel">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jeans">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter carby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
         </div>
