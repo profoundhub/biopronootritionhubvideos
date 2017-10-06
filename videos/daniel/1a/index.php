@@ -335,7 +335,7 @@
 
 
 <body>
-  <?php /**/ include('../../inc/fb-root.php');  ?>
+  <?php /**/ include('../../inc/fb-root.php'); ?>
 
   <div id="wrapper">
     <div class="container">
@@ -346,8 +346,9 @@
               <h2>Project "Awareness"</h2>
                 <br />
                   
-                  <?php /* include('../../inc/videosnippets.php'); 
-                  https://www.youtube.com/watch?v=8DRHAQCEs2s
+                  <?php /* 
+                    include('../../inc/videosnippets.php'); 
+                    https://www.youtube.com/watch?v=8DRHAQCEs2s
                   */ ?>
 
                   <div class="videoWrapperOuter">
@@ -359,15 +360,12 @@
                        
                 <br />
                   <br />
-                    <br />
-                  <br />
-                <br />
                               
               <?php include('../../inc/contestButton.php'); ?>  
-                <hr>              
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->
+    
     <?php include('../../inc/comments.php'); ?>
     <div class="container">
       <div class="row">
