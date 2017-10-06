@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Are "NOOTROPICS" Cheating? | Project "Awareness"</title>
+  <title>Mastermind | Project "Awareness"</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
 <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style8.css" rel="stylesheet">
   <style type="text/css">
 
   </style>
@@ -134,9 +134,16 @@
 
 
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58506882-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
 
+  gtag('config', 'UA-58506882-1');
+</script>
 
-<?php include('../../inc/GlobalSiteTag.php'); ?>
 
 
 
@@ -343,18 +350,20 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
+            <h1 class="subtitle">Introducing Mastermind</h1>
               <h2>Project "Awareness"</h2>
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      
-                      <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
-                      
-                        Help me raise awareness. Share and like! Thanks for the support!
-                        Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Wednesday, October 4, 2017</blockquote>
-                      </div>
+                      <?php /*
+                        <div class="fb-video fb-videos" data-href="https://www.facebook.com/carby.sum/videos/10155318031769177/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/carby.sum/videos/10155318031769177/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/carby.sum/videos/10155318031769177/"></a><p>Are Nootropics Cheating?
 
-                      <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
+                        Project &quot;Awareness&quot; Series #2 - Please Like &amp; Share
+
+                        More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
+                      */ ?>
+
+                      <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
+                      <?php /* */ ?>
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
@@ -366,35 +375,8 @@
 
                 <br />
                   <br />
-                    <br />
-                  <br />
                 <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                
+                                
               <div class="alert alert-danger" role="alert">
                 <p>
                   <h3>
@@ -419,8 +401,6 @@
                               <div id="countdown" style="color:#000;"></div><!-- -->
                     </div><!-- jumbotron visibleBoxes -->
                   </div><!-- col-md-8 col-md-offset-2 -->
-                  
-
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->
@@ -481,20 +461,9 @@
 
 
   
-  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-  <script src="http://bioprofitness.com/videos/assets/js/bootstrap.min.js"></script>
-  <script src="http://bioprofitness.com/videos/assets/js/jquery.countdown.min.js"></script>
-  <script type="text/javascript">
-    $("#countdown").countdown("2017/11/02", function(event) {
-      $(this).html(event.strftime("%w weeks %d days <br /> %H:%M:%S"));
-    });
-  </script>
-  
-	<script>!function(a,b,c,d,t){var e,f=a.getElementsByTagName("head")[0];if(!a.getElementById(c)){if(e=a.createElement(b),e.id=c,e.setAttribute("data-vrlps-ucid",d),e.setAttribute("data-vrlps-version","2"), e.setAttribute("data-vrlps-template", t),e.src="https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js",window.ub){jQuery=null,$=null;var g=a.createElement(b);g.src="https://code.jquery.com/jquery-2.2.4.min.js",f.appendChild(g)}f.appendChild(e);var h=a.createElement("link");h.rel="stylesheet",h.type="text/css",h.href="https://app.viral-loops.com/static/vl-loader.css",f.appendChild(h);var i=a.createElement("div");i.id="vl-overlay",i.style.display="none";var j=a.createElement("div");j.id="vl-loader",i.appendChild(j),a.addEventListener("DOMContentLoaded",function(b){a.body.appendChild(i);for(var c=a.getElementsByClassName("vrlps-trigger"),d=0;d<c.length;d++)c[d].removeAttribute("href"),c[d].onclick=function(){a.getElementById("vl-overlay").style.display="block"};var e=a.querySelectorAll("[data-vl-widget='popupTrigger']");[].forEach.call(e,function(b){var c=a.createElement("div");c.className="vl-embedded-cta-loader",b.appendChild(c)})})}}(document,"script","vrlps-js","45gbiRp2z3W09kyYcitIu9gVMXE","ranking");</script>
-	
-  <script>
-    console.log("Someone cool just joined the campaign!");
-  </script>
-</body>
 
+  
+    <?php include('../../inc/footer.php'); ?>
+    <?php include('../../inc/countdown.php'); ?>
+  </body>
 </html>

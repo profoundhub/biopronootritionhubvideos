@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Are "NOOTROPICS" Cheating? | Project "Awareness"</title>
+  <title>Project "Awareness" - Are Supplements a Scam?</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -134,9 +134,16 @@
 
 
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58506882-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
 
+  gtag('config', 'UA-58506882-1');
+</script>
 
-<?php include('../../inc/GlobalSiteTag.php'); ?>
 
 
 
@@ -345,14 +352,33 @@
           <div class="jumbotron visibleBoxes">
             <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
+                <br />
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
+                      <?php /*
+                        <iframe src="//www.youtube.com/embed/<------>?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>            
+                      */ ?>         
                       
-                      <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
-                      
-                        Help me raise awareness. Share and like! Thanks for the support!
-                        Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Wednesday, October 4, 2017</blockquote>
-                      </div>
+                        <div class="fb-video fb-videos" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
+
+                        Like Our Facebook Page
+                        https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote>
+                        </div>
+                        
+                      <?php /*
+                        <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="false">
+                          <blockquoteblockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a>
+                              <p>
+                                Are &quot;NOOTROPICS&quot; Cheating?                
+                                Like Our Facebook Page
+                                https://www.facebook.com/nootritionhub/
+                              </p>
+                                Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017
+                          </blockquote>
+                        </div>
+                      */ ?>
 
                       <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
                     </div><!-- videoWrapperInner -->			
@@ -363,37 +389,6 @@
                     <br />
                   <br />
                 <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
                 
               <div class="alert alert-danger" role="alert">
                 <p>

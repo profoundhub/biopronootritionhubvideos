@@ -361,7 +361,14 @@
                         Project &quot;Awareness&quot; Series #2 - Please Like &amp; Share
 
                         More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
+
+                        https://youtu.be/5tGdUMCa49I
                       */ ?>
+
+
+                        <iframe src="//www.youtube.com/embed/5tGdUMCa49I?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>       
+
 
                       <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
                       <?php /* */ ?>

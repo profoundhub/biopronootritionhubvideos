@@ -134,9 +134,16 @@
 
 
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58506882-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
 
+  gtag('config', 'UA-58506882-1');
+</script>
 
-<?php include('../../inc/GlobalSiteTag.php'); ?>
 
 
 
@@ -345,16 +352,19 @@
           <div class="jumbotron visibleBoxes">
             <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
+                <br />
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      
-                      <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.54/videos/10154687350410771/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
-                      
-                        Help me raise awareness. Share and like! Thanks for the support!
-                        Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.54">Jeans Wong</a> on Wednesday, October 4, 2017</blockquote>
-                      </div>
+                      <?php /*
+                        <div class="fb-video fb-videos" data-href="https://www.facebook.com/carby.sum/videos/10155318031769177/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/carby.sum/videos/10155318031769177/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/carby.sum/videos/10155318031769177/"></a><p>Are Nootropics Cheating?
 
-                      <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
+                        Project &quot;Awareness&quot; Series #2 - Please Like &amp; Share
+
+                        More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
+                      */ ?>
+
+                      <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
+                      <?php /* */ ?>
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
@@ -366,35 +376,8 @@
 
                 <br />
                   <br />
-                    <br />
-                  <br />
                 <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
-
-                
+                                
               <div class="alert alert-danger" role="alert">
                 <p>
                   <h3>
@@ -419,8 +402,6 @@
                               <div id="countdown" style="color:#000;"></div><!-- -->
                     </div><!-- jumbotron visibleBoxes -->
                   </div><!-- col-md-8 col-md-offset-2 -->
-                  
-
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->

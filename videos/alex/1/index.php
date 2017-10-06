@@ -24,7 +24,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/bootstrap-theme.css" rel="stylesheet">
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
-<!-- simple styles -->
+  <!-- simple styles -->
   <link href="http://bioprofitness.com/videos/assets/css/style.css" rel="stylesheet">
   <style type="text/css">
 
@@ -320,23 +320,31 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
 						*/ ?>
             <h1>Project "Awareness"</h1>
             <h2 class="subtitle">Are Supplements a Scam?</h2>
-              <br />
-            <div class="videoWrapperOuter">
-              <div class="videoWrapperInner">              
-              <iframe src="//www.youtube.com/embed/RlJj80hsimw?rel=0&amp;controls=0&amp;showinfo=0" 
-                frameborder="0" allowfullscreen></iframe>      
-                <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
-              </div>						
-            </div>        
             <br />
-            <div class="alert alert-danger" role="alert">
+
+            <div class="videoWrapperOuter">
+              <div class="videoWrapperInner">
+                <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" />
+              </div>						
+            </div>
+        
+<br />
+  <br />
+    <br />
+      <br />
+    <br />
+  <br />
+<br />
+          </div>
+          <!-- end jumbotron visibleBoxes -->
+
+          <div class="alert alert-danger" role="alert">
             <p>
               <h3><a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a></h3></p>
           </div>
 
-          </div>
-          <!-- end jumbotron visibleBoxes -->
           <hr>
+
           <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron visibleBoxes">
               <br />
@@ -352,44 +360,43 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
               <div id="countdown" style="color:#000;"></div>
             </div>
           </div>
-        </div>
-          
-          <div class="social">
-            <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-          </div>
-        </div>
-      </div>
 
-      <div class="row">
-        <br />
-        <hr>
-        <div class="col-md-8 col-md-offset-2">
-          <div class="jumbotron visibleBoxes">
-            <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
           </div>
+
+          <div class="social">
+          <a href="https://goo.gl/R3DtnP" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/GFkRHZ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/e39SJM" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/boQdhS" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          <a href="https://goo.gl/Ruxo9a" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-6 col-lg-offset-3">
-          <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
-          <div class="credits">
-            <!-- 
-						All the links in the footer should remain intact. 
-						You can delete the links only if you purchased the pro version.
-						Licensing information: https://bootstrapmade.com/license/
-						Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
-						-->
-          </div>
+    </div>
+
+    <div class="row">
+      <br />
+      <hr>
+      <div class="col-md-8 col-md-offset-2">
+        <div class="jumbotron visibleBoxes">
+          <div class="fb-comments" data-href="http://bioprofitness.com/videos/" data-width="500" data-numposts="5"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6 col-lg-offset-3">
+        <p class="copyright">&copy; BioProFitness - All Rights Reserved</p>
+        <div class="credits">
+          <!-- 
+          All the links in the footer should remain intact. 
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=WeBuild
+          -->
         </div>
       </div>
     </div>
   </div>
-
-
+</div>
 
 
 
