@@ -7,4 +7,4 @@
                 </p>
             </div><!-- alert alert-danger -->
 */ ?>
-            <a href="#" class="green button vrlps-trigger" style="color:#ff0700; padding: 30px 60px;">Don't Miss the Next Video!</a>            
+            <a href="#" class="green button vrlps-trigger">Don't Miss the Next Video!</a>            
