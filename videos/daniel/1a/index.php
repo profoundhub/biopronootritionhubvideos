@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Project "Awareness" - IS IT WORTH IT?</title>
+  <title>Project "Awareness" - Are Supplements a Scam?</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -342,15 +342,17 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">IS IT WORTH IT?</h1>
+            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
                 <br />
                   
-                  <?php /* include('../../inc/videosnippets.php'); */ ?>
+                  <?php /* include('../../inc/videosnippets.php'); 
+                  https://www.youtube.com/watch?v=8DRHAQCEs2s
+                  */ ?>
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
+                      <iframe src="//www.youtube.com/embed/8DRHAQCEs2s?rel=0&amp;controls=0&amp;showinfo=0" 
                       frameborder="0" allowfullscreen></iframe>                           
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 

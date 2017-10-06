@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Project "Awareness" - IS IT WORTH IT?</title>
+  <title>Project "Awareness" - Are Supplements a Scam?</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -335,14 +335,13 @@
 
 
 <body>
-  <?php /**/ include('../../inc/fb-root.php');  ?>
-
+  <?php /* */ include('../../inc/fb-root.php'); ?>
   <div id="wrapper">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">IS IT WORTH IT?</h1>
+            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
                 <br />
                   
@@ -350,16 +349,32 @@
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                      frameborder="0" allowfullscreen></iframe>                           
+
+                      <div class="fb-video fb-videos" data-href="https://www.facebook.com/jeans.wong.104/videos/209209456285075/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jeans.wong.104/videos/209209456285075/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jeans.wong.104/videos/209209456285075/"></a><p>Project awareness: Are supplements a scam?
+                      Herbal Supplements Are Often Not What They Seem !!
+                      New York times article -- https://goo.gl/MsJhFx
+
+                      If you or know someone that takes supplements you need to watch this video! Help me raise awareness. Share and like! Thanks for the support!
+
+                      Also, join our FB group for more upcoming videos and an awesome contest coming soon! -- https://www.facebook.com/groups/nootritionhub/</p>Posted by <a href="https://www.facebook.com/jeans.wong.104">Jeans WOng</a> on Thursday, October 5, 2017</blockquote></div>
+                        
+                      <?php  /*  
+                        <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
+                        frameborder="0" allowfullscreen></iframe>                           
+                      */ ?>
+
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
-                <br />
+                  <br />
                   <br />
                     <br />
                   <br />
                 <br />
+
+                <br />
+                  <br />
+                    <br />
                               
               <?php include('../../inc/contestButton.php'); ?>  
                 <hr>              
