@@ -15,8 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
-
-  <title>Project "Awareness" - Are Supplements a Scam?</title>
+  <title>Jeans</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -32,8 +31,8 @@
 
     </style>
   */ ?>
-
   <!-- Source hidden -->
+  
 
 
 
@@ -137,7 +136,6 @@
 
 
   <?php include('../../inc/GlobalSiteTag.php'); ?>
-  
 
 
 
@@ -336,7 +334,6 @@
 
 <body>
   <?php /**/ include('../../inc/fb-root.php');  ?>
-
   <div id="wrapper">
     <div class="container">
       <div class="row">
@@ -345,13 +342,18 @@
             <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
               <h2>Project "Awareness"</h2>
                 <br />
-                  
-                  <?php /* include('../../inc/videosnippets.php'); */ ?>
-
+                
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                      frameborder="0" allowfullscreen></iframe>                           
+
+                      <?php /* include('../../inc/videosnippets.php'); */ ?>
+
+                        <div class="fb-video fb-videos" data-href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159447689770224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159447689770224/"></a><p>Are &quot;NOOTROPICS&quot; Cheating?
+
+                        Like Our Facebook Page
+                        https://www.facebook.com/nootritionhub/</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Wednesday, October 4, 2017</blockquote>
+                        </div>
+                        
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
@@ -360,12 +362,15 @@
                     <br />
                   <br />
                 <br />
-                              
+              
               <?php include('../../inc/contestButton.php'); ?>  
-                <hr>              
+                <hr>
+                <?php include('../../inc/videoContest.php'); ?>  
+                  
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->
+
     <?php include('../../inc/comments.php'); ?>
     <div class="container">
       <div class="row">
@@ -430,13 +435,9 @@
     $("#countdown").countdown("2017/11/02", function(event) {
       $(this).html(event.strftime("%w weeks %d days <br /> %H:%M:%S"));
     });
-  </script>
-  
-	<script>!function(a,b,c,d,t){var e,f=a.getElementsByTagName("head")[0];if(!a.getElementById(c)){if(e=a.createElement(b),e.id=c,e.setAttribute("data-vrlps-ucid",d),e.setAttribute("data-vrlps-version","2"), e.setAttribute("data-vrlps-template", t),e.src="https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js",window.ub){jQuery=null,$=null;var g=a.createElement(b);g.src="https://code.jquery.com/jquery-2.2.4.min.js",f.appendChild(g)}f.appendChild(e);var h=a.createElement("link");h.rel="stylesheet",h.type="text/css",h.href="https://app.viral-loops.com/static/vl-loader.css",f.appendChild(h);var i=a.createElement("div");i.id="vl-overlay",i.style.display="none";var j=a.createElement("div");j.id="vl-loader",i.appendChild(j),a.addEventListener("DOMContentLoaded",function(b){a.body.appendChild(i);for(var c=a.getElementsByClassName("vrlps-trigger"),d=0;d<c.length;d++)c[d].removeAttribute("href"),c[d].onclick=function(){a.getElementById("vl-overlay").style.display="block"};var e=a.querySelectorAll("[data-vl-widget='popupTrigger']");[].forEach.call(e,function(b){var c=a.createElement("div");c.className="vl-embedded-cta-loader",b.appendChild(c)})})}}(document,"script","vrlps-js","45gbiRp2z3W09kyYcitIu9gVMXE","ranking");</script>
-	
-  <script>
-    console.log("Someone cool just joined the campaign!");
-  </script>
-</body>
+  </script>  
+	<script>!function(a,b,c,d,t){var e,f=a.getElementsByTagName("head")[0];if(!a.getElementById(c)){if(e=a.createElement(b),e.id=c,e.setAttribute("data-vrlps-ucid",d),e.setAttribute("data-vrlps-version","2"), e.setAttribute("data-vrlps-template", t),e.src="https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js",window.ub){jQuery=null,$=null;var g=a.createElement(b);g.src="https://code.jquery.com/jquery-2.2.4.min.js",f.appendChild(g)}f.appendChild(e);var h=a.createElement("link");h.rel="stylesheet",h.type="text/css",h.href="https://app.viral-loops.com/static/vl-loader.css",f.appendChild(h);var i=a.createElement("div");i.id="vl-overlay",i.style.display="none";var j=a.createElement("div");j.id="vl-loader",i.appendChild(j),a.addEventListener("DOMContentLoaded",function(b){a.body.appendChild(i);for(var c=a.getElementsByClassName("vrlps-trigger"),d=0;d<c.length;d++)c[d].removeAttribute("href"),c[d].onclick=function(){a.getElementById("vl-overlay").style.display="block"};var e=a.querySelectorAll("[data-vl-widget='popupTrigger']");[].forEach.call(e,function(b){var c=a.createElement("div");c.className="vl-embedded-cta-loader",b.appendChild(c)})})}}(document,"script","vrlps-js","45gbiRp2z3W09kyYcitIu9gVMXE","ranking");</script>    
+  <?php include('../../inc/consoleCampaign.php'); ?>    
 
+</body>
 </html>

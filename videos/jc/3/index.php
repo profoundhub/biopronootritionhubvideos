@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Project "Awareness" - Are Supplements a Scam?</title>
+  <title>Project "Awareness" - IS IT WORTH IT?</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -342,7 +342,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">Are "NOOTROPICS" Cheating?</h1>
+            <h1 class="subtitle">IS IT WORTH IT?</h1>
               <h2>Project "Awareness"</h2>
                 <br />
                   
@@ -350,8 +350,10 @@
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/7yfLtPDK_Ko?rel=0&amp;controls=0&amp;showinfo=0" 
-                      frameborder="0" allowfullscreen></iframe>                           
+                    <div class="fb-video" data-href="https://www.facebook.com/jc.mercedat/videos/10159458285380224/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159458285380224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159458285380224/"></a><p>IS IT WORTH IT?
+                    
+                    Follus us at: https://www.facebook.com/NootritionHub</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Friday, October 6, 2017</blockquote></div>
+                    
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
