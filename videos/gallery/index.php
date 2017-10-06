@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
   <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/gallery.css" rel="stylesheet">
 
   <?php /*  
     <style type="text/css">
@@ -347,10 +347,12 @@
 
         <div align="center">
             <button class="btn btn-default filter-button" data-filter="all">All</button>
-            <button class="btn btn-default filter-button" data-filter="hdpe">HDPE Pipes</button>
-            <button class="btn btn-default filter-button" data-filter="sprinkle">Sprinkle Pipes</button>
-            <button class="btn btn-default filter-button" data-filter="spray">Spray Nozzle</button>
-            <button class="btn btn-default filter-button" data-filter="irrigation">Irrigation Pipes</button>
+            <button class="btn btn-default filter-button" data-filter="abby">Abby</button>
+            <button class="btn btn-default filter-button" data-filter="carby">Carby</button>
+            <button class="btn btn-default filter-button" data-filter="daniel">Daniel</button>
+            <button class="btn btn-default filter-button" data-filter="jc">JC</button>
+            <button class="btn btn-default filter-button" data-filter="jean">Jeans</button>            
+            <button class="btn btn-default filter-button" data-filter="shay">Shay</button>
         </div>
         <br/>
 
@@ -481,6 +483,35 @@
   <script>
     console.log("Someone cool just joined the campaign!");
   </script>
+
+  <script>
+    $(document).ready(function(){
+
+          $(".filter-button").click(function(){
+              var value = $(this).attr('data-filter');
+              
+              if(value == "all")
+              {
+                  //$('.filter').removeClass('hidden');
+                  $('.filter').show('1000');
+              }
+              else
+              {
+      //            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+      //            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+                  $(".filter").not('.'+value).hide('3000');
+                  $('.filter').filter('.'+value).show('3000');
+                  
+              }
+          });
+          
+          if ($(".filter-button").removeClass("active")) {
+      $(this).removeClass("active");
+      }
+      $(this).addClass("active");
+
+    });
+    </script>
 </body>
 
 </html>
