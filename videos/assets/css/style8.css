@@ -139,6 +139,10 @@ form.signup input.form-control:focus {
    background: rgba(255, 255, 255, 0.7);
 }
 
+.fb-videos {
+    background-color: cornsilk;
+}
+
 #wrapper h1 {
  margin-top: 60px;
  margin-bottom: 40px;

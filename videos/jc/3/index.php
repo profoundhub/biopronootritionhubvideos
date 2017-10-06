@@ -343,8 +343,7 @@
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
             <h1 class="subtitle">IS IT WORTH IT?</h1>
-                <br />
-                  
+                <br />                  
                   <?php /* include('../../inc/videosnippets.php'); */ ?>
 
                   <div class="videoWrapperOuter">
@@ -361,9 +360,15 @@
                     <br />
                   <br />
                 <br />
+
+                <br />
+                  <br />
                               
               <?php include('../../inc/contestButton.php'); ?>  
-                <hr>              
+                
+                  <br />
+                <br />
+
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->

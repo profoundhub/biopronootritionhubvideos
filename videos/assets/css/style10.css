@@ -119,6 +119,9 @@ form.signup input.form-control:focus {
  border-color: #fd680e;
 }
 
+.fb-videos {
+    background-color: cornsilk;
+}
 
 /* wrapper */
 

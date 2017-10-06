@@ -336,7 +336,9 @@ p.copyright {
         }
 }
 
-
+.fb-videos {
+    background-color: cornsilk;
+}
 
 .bs-calltoaction.bs-calltoaction-default{
     color: #333;
@@ -394,4 +396,126 @@ p.copyright {
 }
 .text2left {
       text-align: left;
-    }
+}
+
+/* button */
+
+.niceCSS3button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #079400;
+	padding: 30px 50px;
+	background: -moz-linear-gradient(
+		top,
+		#ffffff 0%,
+		#ffffff 50%,
+		#b5b5b5);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ffffff),
+		color-stop(0.50, #ffffff),
+		to(#b5b5b5));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 3px solid #2ea100;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 3px rgba(255,255,255,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 3px rgba(255,255,255,1);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 3px rgba(255,255,255,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.2),
+		0px 1px 0px rgba(255,255,255,1);
+}
+
+@-webkit-keyframes greenPulse {
+    from { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+    50% { background-color: #91bd09; -webkit-box-shadow: 0 0 18px #91bd09; }
+    to { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+  }
+
+  .green.button {
+    -webkit-animation-name: greenPulse;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+  }
+
+  .transparent.header {
+    background: #333;
+  }
+  section[role="main"] {
+    background: #333;
+    color: #fff;
+  }
+  section[role="main"] h1 {
+    color: #fff;
+  }
+  section[role="main"] h2 {
+    color: #fff;
+  }
+  section[role="main"] h3 {
+    color: #fff;
+  }
+  .button {
+    margin-right: 0.5em;
+    border-radius: 4px;
+  }
+  
+  @-webkit-keyframes bigAssButtonPulse {
+	  from { background-color: #749a02; -webkit-box-shadow: 0 0 25px #333; }
+	  50% { background-color: #91bd09; -webkit-box-shadow: 0 0 50px #91bd09; }
+	  to { background-color: #749a02; -webkit-box-shadow: 0 0 25px #333; }
+	}
+
+	@-webkit-keyframes greenPulse {
+	  from { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #91bd09; -webkit-box-shadow: 0 0 18px #91bd09; }
+	  to { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	@-webkit-keyframes bluePulse {
+	  from { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #2daebf; -webkit-box-shadow: 0 0 18px #2daebf; }
+	  to { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	@-webkit-keyframes redPulse {
+	  from { background-color: #bc330d; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #e33100; -webkit-box-shadow: 0 0 18px #e33100; }
+	  to { background-color: #bc330d; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	@-webkit-keyframes magentaPulse {
+	  from { background-color: #630030; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #a9014b; -webkit-box-shadow: 0 0 18px #a9014b; }
+	  to { background-color: #630030; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	@-webkit-keyframes orangePulse {
+	  from { background-color: #d45500; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #ff5c00; -webkit-box-shadow: 0 0 18px #ff5c00; }
+	  to { background-color: #d45500; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	@-webkit-keyframes orangellowPulse {
+	  from { background-color: #fc9200; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #ffb515; -webkit-box-shadow: 0 0 18px #ffb515; }
+	  to { background-color: #fc9200; -webkit-box-shadow: 0 0 9px #333; }
+	}
+
+	a.button {
+		-webkit-animation-duration: 2s;
+		-webkit-animation-iteration-count: infinite; 
+	}
+	
+	.green.button { -webkit-animation-name: greenPulse; -webkit-animation-duration: 3s; }
+	.blue.button { -webkit-animation-name: bluePulse; -webkit-animation-duration: 4s; }
+	.red.button { -webkit-animation-name: redPulse; -webkit-animation-duration: 1s; }
+	.magenta.button { -webkit-animation-name: magentaPulse; -webkit-animation-duration: 2s; }
+	.orange.button { -webkit-animation-name: orangePulse; -webkit-animation-duration: 3s; }
+	.orangellow.button { -webkit-animation-name: orangellowPulse; -webkit-animation-duration: 5s; }
