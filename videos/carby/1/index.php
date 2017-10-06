@@ -401,7 +401,7 @@ src="https://www.facebook.com/tr?id=295481444187735&ev=PageView&noscript=1"
             <p>              
               <h3>
               <a href="#" class="green button vrlps-trigger" style="color:#ff0700; padding: 30px 60px;">Don't Miss the Next Video!</a>
-              <?php /*  <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a> */ ?>
+              <?php /* <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a> */ ?>
               </h3>
             </p>
 
