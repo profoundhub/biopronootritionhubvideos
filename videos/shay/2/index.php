@@ -371,8 +371,8 @@
                       */ ?>
                         <iframe src="//www.youtube.com/embed/2Z5r4lrd97A?rel=0&amp;controls=0&amp;showinfo=0" 
                           frameborder="0" allowfullscreen></iframe>       
-                      <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
-                      <?php /* */ ?>
+                      
+                      <?php /* <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> */ ?>
                     </div><!-- videoWrapperInner -->			
                   </div><!-- videoWrapperOuter --> 
                        
