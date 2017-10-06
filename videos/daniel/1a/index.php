@@ -359,12 +359,8 @@
                        
                 <br />
                   <br />
-                    <br />
-                  <br />
-                <br />
                               
               <?php include('../../inc/contestButton.php'); ?>  
-                <hr>              
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->

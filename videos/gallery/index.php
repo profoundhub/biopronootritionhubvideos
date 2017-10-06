@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Gallery | Project "Awareness"</title>
+  <title>Project "Awareness" - Video Gallery</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -24,127 +24,120 @@
   <link href="http://bioprofitness.com/videos/assets/css/bootstrap-theme.css" rel="stylesheet">
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
-<!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style8.css" rel="stylesheet">
-  <style type="text/css">
+  <!-- simple styles -->
+  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
 
-  </style>
+  <?php /*  
+    <style type="text/css">
+
+    </style>
+  */ ?>
 
   <!-- Source hidden -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <?php include('../../inc/GlobalSiteTag.php'); ?>
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58506882-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-
-  gtag('config', 'UA-58506882-1');
-</script>
-
-
 
 
 
@@ -344,66 +337,79 @@
 <body>
   <?php /**/ include('../../inc/fb-root.php');  ?>
 
-
   <div id="wrapper">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">Ingredients?</h1>
-              <h2>Project "Awareness"</h2>
-                  <div class="videoWrapperOuter">
-                    <div class="videoWrapperInner">
-                      <?php /*
-                        <div class="fb-video fb-videos" data-href="https://www.facebook.com/carby.sum/videos/10155318031769177/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/carby.sum/videos/10155318031769177/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/carby.sum/videos/10155318031769177/"></a><p>Are Nootropics Cheating?
 
-                        Project &quot;Awareness&quot; Series #2 - Please Like &amp; Share
+  <div class="container">
+        <div class="row">
+        <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h1 class="gallery-title">Video Gallery</h1>
+        </div>
 
-                        More videos and contests coming soon Nootritionhub!</p>Posted by <a href="#" role="button">Carby Sum</a> on Wednesday, October 4, 2017</blockquote></div>
-                      */ ?>
+        <div align="center">
+            <button class="btn btn-default filter-button" data-filter="all">All</button>
+            <button class="btn btn-default filter-button" data-filter="hdpe">HDPE Pipes</button>
+            <button class="btn btn-default filter-button" data-filter="sprinkle">Sprinkle Pipes</button>
+            <button class="btn btn-default filter-button" data-filter="spray">Spray Nozzle</button>
+            <button class="btn btn-default filter-button" data-filter="irrigation">Irrigation Pipes</button>
+        </div>
+        <br/>
 
-                      <img src="http://bioprofitness.com/videos/assets/img/video-soon-overlay.jpg" class="img-responsive" alt="Video Coming Soon | Responsive Image" /> 
-                      <?php /* */ ?>
-                    </div><!-- videoWrapperInner -->			
-                  </div><!-- videoWrapperOuter --> 
-                       
-                <br />
-                  <br />
-                    <br />
-                  <br />
-                <br />
 
-                <br />
-                  <br />
-                <br />
-                                
-              <div class="alert alert-danger" role="alert">
-                <p>
-                  <h3>
-                    <a href="#" class="vrlps-trigger" style="color:#ff0700;">Don't Miss the Next Video!</a>
-                  </h3>
-                </p>
-              </div><!-- alert alert-danger -->
-                <hr>
-                  <div class="col-md-8 col-md-offset-2">
-                    <div class="jumbotron visibleBoxes">
-                      <br />
-                        <div class="well visibleBoxes videoContest">
-                          <div class="page-header">
-                            <h4>The Project "Awareness" Video Contest</h4>
-                          </div><!-- page-header -->
 
-                          <h5>Help us Spread the Word!</h5>
-                            <div data-vl-widget="popupTrigger"></div><!-- -->
-                        </div><!-- well visibleBoxes videoContest -->
-                          <br />                  
-                            <h3>Contest Ends on Nov. 2nd, 2017</h3>
-                              <div id="countdown" style="color:#000;"></div><!-- -->
-                    </div><!-- jumbotron visibleBoxes -->
-                  </div><!-- col-md-8 col-md-offset-2 -->
-              </div><!-- end jumbotron visibleBoxes -->
-      </div><!-- row -->
-    </div><!-- container -->
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
     <?php include('../../inc/comments.php'); ?>
     <div class="container">
       <div class="row">
