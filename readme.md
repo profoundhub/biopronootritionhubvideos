@@ -39,12 +39,12 @@
 + http://bioprofitness.com/videos/sammy/4/ ------------------------ Missing Video
 
 ## Daniel
-+ http://bioprofitness.com/videos/daniel/1/  ----------- READY
-+ http://bioprofitness.com/videos/daniel/1a/  
-+ http://bioprofitness.com/videos/daniel/1b/ 
-+ http://bioprofitness.com/videos/daniel/2/  ----------- READY
-+ http://bioprofitness.com/videos/daniel/3/  ----------- READY
-+ http://bioprofitness.com/videos/daniel/3a/   ----------- READY
++ http://bioprofitness.com/videos/daniel/1/   ----------- READY (YT)
++ http://bioprofitness.com/videos/daniel/1a/  ----------- READY (YT)
++ http://bioprofitness.com/videos/daniel/1b/  ----------- READY (YT)
++ http://bioprofitness.com/videos/daniel/2/   ----------- READY
++ http://bioprofitness.com/videos/daniel/3/   ----------- READY
++ http://bioprofitness.com/videos/daniel/3a/  ----------- READY
 + http://bioprofitness.com/videos/daniel/3b/ 
 + http://bioprofitness.com/videos/daniel/4/  ------------------------ Missing Video
 
