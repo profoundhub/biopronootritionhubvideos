@@ -7,25 +7,25 @@
 #### Quick TOC
 
 ## Jeans
-http://bioprofitness.com/videos/jeans/1/ ----------- READY (FB)
-http://bioprofitness.com/videos/jeans/2/  ----------- READY
-http://bioprofitness.com/videos/jeans/3/
-http://bioprofitness.com/videos/jeans/4/
++ http://bioprofitness.com/videos/jeans/1/ ----------- READY (FB)
++ http://bioprofitness.com/videos/jeans/2/  ----------- READY
++ http://bioprofitness.com/videos/jeans/3/
++ http://bioprofitness.com/videos/jeans/4/
 
-http://bioprofitness.com/videos/jeans/1a/ ----------- READY (YT)
-http://bioprofitness.com/videos/jeans/1b/  ----------- READY ( Version 2 )
++ http://bioprofitness.com/videos/jeans/1a/ ----------- READY (YT)
++ http://bioprofitness.com/videos/jeans/1b/  ----------- READY ( Version 2 )
 
 ## JC
-http://bioprofitness.com/videos/jc/1/ ----------- READY (YT)
-http://bioprofitness.com/videos/jc/2/  ----------- READY (FB)
-http://bioprofitness.com/videos/jc/3/
-http://bioprofitness.com/videos/jc/4/
++ http://bioprofitness.com/videos/jc/1/ ----------- READY (YT)
++ http://bioprofitness.com/videos/jc/2/  ----------- READY (FB)
++ http://bioprofitness.com/videos/jc/3/
++ http://bioprofitness.com/videos/jc/4/
 
 ## Carby
-http://bioprofitness.com/videos/carby/1/ ----------- READY (YT)
-http://bioprofitness.com/videos/carby/2/  ----------- READY (FB)
-http://bioprofitness.com/videos/carby/3/  ----------- READY
-http://bioprofitness.com/videos/carby/4/
++ http://bioprofitness.com/videos/carby/1/ ----------- READY (YT)
++ http://bioprofitness.com/videos/carby/2/  ----------- READY (FB)
++ http://bioprofitness.com/videos/carby/3/  ----------- READY
++ http://bioprofitness.com/videos/carby/4/
 
 ## Abby
 http://bioprofitness.com/videos/abby/1/ ----------- READY
