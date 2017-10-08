@@ -21,10 +21,10 @@
 + http://bioprofitness.com/videos/jc/4/ ------------------------ Missing Video
 
 ## Carby
-+ http://bioprofitness.com/videos/carby/1/ ----------- READY (YT)
++ http://bioprofitness.com/videos/carby/1/  ----------- READY (YT)
 + http://bioprofitness.com/videos/carby/2/  ----------- READY (FB)
 + http://bioprofitness.com/videos/carby/3/  ----------- READY
-+ http://bioprofitness.com/videos/carby/4/
++ http://bioprofitness.com/videos/carby/4/  ------------------------ Missing Video
 
 ## Abby
 + http://bioprofitness.com/videos/abby/1/  ----------- READY
@@ -36,7 +36,7 @@
 + http://bioprofitness.com/videos/sammy/1/ ------------------------ Missing Video
 + http://bioprofitness.com/videos/sammy/2/ ------------------------ Missing Video
 + http://bioprofitness.com/videos/sammy/3/
-+ http://bioprofitness.com/videos/sammy/4/
++ http://bioprofitness.com/videos/sammy/4/  ------------------------ Missing Video
 
 ## Daniel
 + http://bioprofitness.com/videos/daniel/1/  ----------- READY
@@ -46,7 +46,7 @@
 + http://bioprofitness.com/videos/daniel/3/  ----------- READY
 + http://bioprofitness.com/videos/daniel/3a/   ----------- READY
 + http://bioprofitness.com/videos/daniel/3b/ 
-+ http://bioprofitness.com/videos/daniel/4/
++ http://bioprofitness.com/videos/daniel/4/  ------------------------ Missing Video
 
 ## Shay
 + http://bioprofitness.com/videos/shay/1/ ----------- READY
@@ -58,13 +58,13 @@
 + http://bioprofitness.com/videos/yulian/1/ ---------------- Missing Video
 + http://bioprofitness.com/videos/yulian/2/ ---------------- Missing Video
 + http://bioprofitness.com/videos/yulian/3/
-+ http://bioprofitness.com/videos/yulian/4/
++ http://bioprofitness.com/videos/yulian/4/  ------------------------ Missing Video
 
 ## Alex
 + http://bioprofitness.com/videos/alex/1/ ---------------- Missing Video
 + http://bioprofitness.com/videos/alex/2/ ---------------- Missing Video
 + http://bioprofitness.com/videos/alex/3/
-+ http://bioprofitness.com/videos/alex/4/
++ http://bioprofitness.com/videos/alex/4/  ------------------------ Missing Video
 
 ## Video Contest
 + http://bioprofitness.com/video-contest/ ----------- READY
