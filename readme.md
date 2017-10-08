@@ -7,12 +7,12 @@
 #### Quick TOC
 
 ## Jeans
-+ http://bioprofitness.com/videos/jeans/1/ ----------- READY (FB)
++ http://bioprofitness.com/videos/jeans/1/  ----------- READY (FB)
 + http://bioprofitness.com/videos/jeans/1a/ ----------- READY (YT)
-+ http://bioprofitness.com/videos/jeans/1b/  ----------- ( Version 2 ) Video Unavailable
++ http://bioprofitness.com/videos/jeans/1b/ ----------- ( Version 2 ) Video Unavailable
 + http://bioprofitness.com/videos/jeans/2/  ----------- READY
-+ http://bioprofitness.com/videos/jeans/3/
-+ http://bioprofitness.com/videos/jeans/4/
++ http://bioprofitness.com/videos/jeans/3/  ----------- READY
++ http://bioprofitness.com/videos/jeans/4/  ------------------------ Missing Video
 
 ## JC
 + http://bioprofitness.com/videos/jc/1/ ----------- READY (YT)
