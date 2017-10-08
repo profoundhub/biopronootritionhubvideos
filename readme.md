@@ -42,10 +42,10 @@
 + http://bioprofitness.com/videos/daniel/1/   ----------- READY (YT)
 + http://bioprofitness.com/videos/daniel/1a/  ----------- READY (YT)
 + http://bioprofitness.com/videos/daniel/1b/  ----------- READY (YT)
-+ http://bioprofitness.com/videos/daniel/2/   ----------- READY
-+ http://bioprofitness.com/videos/daniel/3/   ----------- READY
-+ http://bioprofitness.com/videos/daniel/3a/  ----------- READY
-+ http://bioprofitness.com/videos/daniel/3b/ 
++ http://bioprofitness.com/videos/daniel/2/   ----------- READY (FB)
++ http://bioprofitness.com/videos/daniel/3/   ----------- READY (YT)
++ http://bioprofitness.com/videos/daniel/3a/  ----------- READY 
++ http://bioprofitness.com/videos/daniel/3b/  ----------- Missing
 + http://bioprofitness.com/videos/daniel/4/  ------------------------ Missing Video
 
 ## Shay
