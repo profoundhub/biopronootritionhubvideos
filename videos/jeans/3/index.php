@@ -344,10 +344,8 @@
           <div class="jumbotron visibleBoxes">
             <h1 class="subtitle">IS IT WORTH IT?</h1>
               <h2>Project "Awareness"</h2>
-                <br />
-                  
+                <br />                  
                   <?php /* include('../../inc/videosnippets.php'); */ ?>
-
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
                       <iframe src="//www.youtube.com/embed/QUrJHBfHsxY?rel=0&amp;controls=0&amp;showinfo=0" 
