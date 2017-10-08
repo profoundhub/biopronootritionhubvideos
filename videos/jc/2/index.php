@@ -361,9 +361,15 @@
                   <br />
                     <br />
                   <br />
-                <br />
-              
+                <br />            
+                  <br />
+
               <?php include('../../inc/contestButton.php'); ?>  
+              
+              <br />
+                <br />   
+              <br />
+              
                 <?php include('../../inc/videoContest.php'); ?>  
                   
               </div><!-- end jumbotron visibleBoxes -->
