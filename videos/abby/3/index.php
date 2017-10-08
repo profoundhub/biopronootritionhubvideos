@@ -25,7 +25,7 @@
   <link href="http://bioprofitness.com/videos/assets/css/font-awesome.css" rel="stylesheet">
 
   <!-- simple styles -->
-  <link href="http://bioprofitness.com/videos/assets/css/style2.css" rel="stylesheet">
+  <link href="http://bioprofitness.com/videos/assets/css/style6.css" rel="stylesheet">
 
   <?php /*  
     <style type="text/css">
@@ -343,20 +343,28 @@
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
             <h1 class="subtitle">IS IT WORTH IT?</h1>
-              <h2>Project "Awareness"</h2>
-                <br />
-                  
+                <br />                  
                   <?php /* include('../../inc/videosnippets.php'); */ ?>
 
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
-                      <iframe src="//www.youtube.com/embed/QUrJHBfHsxY  ?rel=0&amp;controls=0&amp;showinfo=0" 
-                      frameborder="0" allowfullscreen></iframe>                           
-                    </div><!-- videoWrapperInner -->			
-                  </div><!-- videoWrapperOuter -->                        
+                    <?php /*                     https://youtu.be/wGYD3Z37R0Y */ ?>
+
+                    <?php /* */ ?>    
+                        <iframe src="//www.youtube.com/embed/wGYD3Z37R0Y?rel=0&amp;controls=0&amp;showinfo=0" 
+                          frameborder="0" allowfullscreen></iframe>            
+                    
+                    <?php /*
+                      <div class="fb-video fb-videos" data-href="https://www.facebook.com/jc.mercedat/videos/10159458285380224/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/jc.mercedat/videos/10159458285380224/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jc.mercedat/videos/10159458285380224/"></a><p>IS IT WORTH IT?
+                    */ ?>
+
+                    Follow us at: https://www.facebook.com/NootritionHub</p>Posted by <a href="#" role="button">Jean-Charles Jr Mercedat</a> on Friday, October 6, 2017</blockquote></div>   
                   <br />
-                <br />                              
-              <?php include('../../inc/contestButton.php'); ?>  
+                <br />
+                    <?php include('../../inc/contestButton.php'); ?>  
+                    </div><!-- videoWrapperInner -->			
+                  </div><!-- videoWrapperOuter --> 
+                <br />
               </div><!-- end jumbotron visibleBoxes -->
       </div><!-- row -->
     </div><!-- container -->

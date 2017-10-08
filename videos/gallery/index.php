@@ -351,12 +351,10 @@
             <button class="btn btn-default filter-button" data-filter="carby">Carby</button>
             <button class="btn btn-default filter-button" data-filter="daniel">Daniel</button>
             <button class="btn btn-default filter-button" data-filter="jc">JC</button>
-            <button class="btn btn-default filter-button" data-filter="jean">Jeans</button>            
+            <button class="btn btn-default filter-button" data-filter="jeans">Jeans</button>            
             <button class="btn btn-default filter-button" data-filter="shay">Shay</button>
         </div>
         <br/>
-
-
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
@@ -374,7 +372,7 @@
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter jc">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter shay">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
@@ -382,7 +380,7 @@
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Abby">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
@@ -398,7 +396,7 @@
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter Abby">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter abby">
                 <img src="http://fakeimg.pl/365x365/" class="img-responsive">
             </div>
 
@@ -408,9 +406,6 @@
         </div>
     </div>
 </section>
-
-
-
 
     <?php include('../../inc/comments.php'); ?>
     <div class="container">
