@@ -15,10 +15,10 @@
 + http://bioprofitness.com/videos/jeans/4/  ------------------------ Missing Video
 
 ## JC
-+ http://bioprofitness.com/videos/jc/1/ ----------- READY (YT)
++ http://bioprofitness.com/videos/jc/1/  ----------- READY (YT)
 + http://bioprofitness.com/videos/jc/2/  ----------- READY (FB)
-+ http://bioprofitness.com/videos/jc/3/
-+ http://bioprofitness.com/videos/jc/4/
++ http://bioprofitness.com/videos/jc/3/  ----------- READY (FB)
++ http://bioprofitness.com/videos/jc/4/ ------------------------ Missing Video
 
 ## Carby
 + http://bioprofitness.com/videos/carby/1/ ----------- READY (YT)
@@ -29,7 +29,7 @@
 ## Abby
 + http://bioprofitness.com/videos/abby/1/  ----------- READY
 + http://bioprofitness.com/videos/abby/2/  ----------- READY
-+ http://bioprofitness.com/videos/abby/3/  ----------- READY (FB)
++ http://bioprofitness.com/videos/abby/3/  ----------- READY (YT)
 + http://bioprofitness.com/videos/abby/4/  ------------------------ Missing Video
 
 ## Sammy
