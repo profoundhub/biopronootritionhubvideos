@@ -16,7 +16,7 @@
   <meta name="description" content="The Awareness Project | Videos + Contest">
   <meta name="author" content="Daniel | http://profoundideation.com">
 
-  <title>Mastermind | Project "Awareness"</title>
+  <title>Nootropics: Does it Work? | Project "Awareness"</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
   <!-- Bootstrap -->
@@ -350,7 +350,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="jumbotron visibleBoxes">
-            <h1 class="subtitle">Introducing Mastermind</h1>
+            <h1 class="subtitle">Nootropics: Does it Work?</h1>
               <h2>Project "Awareness"</h2>
                   <div class="videoWrapperOuter">
                     <div class="videoWrapperInner">
