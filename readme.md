@@ -27,10 +27,10 @@
 + http://bioprofitness.com/videos/carby/4/
 
 ## Abby
-+ http://bioprofitness.com/videos/abby/1/ ----------- READY
++ http://bioprofitness.com/videos/abby/1/  ----------- READY
 + http://bioprofitness.com/videos/abby/2/  ----------- READY
-+ http://bioprofitness.com/videos/abby/3/
-+ http://bioprofitness.com/videos/abby/4/
++ http://bioprofitness.com/videos/abby/3/  ----------- READY (FB)
++ http://bioprofitness.com/videos/abby/4/  ------------------------ Missing Video
 
 ## Sammy
 + http://bioprofitness.com/videos/sammy/1/ ------------------------ Missing Video
