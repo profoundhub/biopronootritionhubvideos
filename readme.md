@@ -44,6 +44,7 @@
 + http://bioprofitness.com/videos/daniel/1b/ 
 + http://bioprofitness.com/videos/daniel/2/  ----------- READY
 + http://bioprofitness.com/videos/daniel/3/  ----------- READY
++ http://bioprofitness.com/videos/daniel/3a/   ----------- READY
 + http://bioprofitness.com/videos/daniel/3b/ 
 + http://bioprofitness.com/videos/daniel/4/
 
@@ -66,5 +67,5 @@
 + http://bioprofitness.com/videos/alex/4/
 
 ## Video Contest
-+ http://bioprofitness.com/video-contest/
-+ http://bioprofitness.com/video-contest/contest-rules.php
++ http://bioprofitness.com/video-contest/ ----------- READY
++ http://bioprofitness.com/video-contest/contest-rules.php ----------- Pending
