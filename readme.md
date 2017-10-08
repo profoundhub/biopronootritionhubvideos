@@ -35,8 +35,8 @@
 ## Sammy
 + http://bioprofitness.com/videos/sammy/1/ ------------------------ Missing Video
 + http://bioprofitness.com/videos/sammy/2/ ------------------------ Missing Video
-+ http://bioprofitness.com/videos/sammy/3/
-+ http://bioprofitness.com/videos/sammy/4/  ------------------------ Missing Video
++ http://bioprofitness.com/videos/sammy/3/ ------------------------ Missing Video
++ http://bioprofitness.com/videos/sammy/4/ ------------------------ Missing Video
 
 ## Daniel
 + http://bioprofitness.com/videos/daniel/1/  ----------- READY
